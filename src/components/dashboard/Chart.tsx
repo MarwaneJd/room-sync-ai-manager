@@ -16,6 +16,7 @@ import {
   Tooltip,
   XAxis,
   YAxis,
+  Cell,
 } from "recharts";
 
 type ChartTypes = "line" | "bar" | "area" | "pie";
